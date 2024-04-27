@@ -1,4 +1,10 @@
-# React + Vite
+# Task manager # InternArmy task 3
+this is a task giving by internArmy pvt. ltd. during internship 
+
+#to run this app : run following cmd:
+>npm i
+>
+>npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
